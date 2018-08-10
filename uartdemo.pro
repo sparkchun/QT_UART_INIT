@@ -29,6 +29,7 @@ SOURCES += \
     qextserialport/qextserialbase.cpp \
     qextserialport/qextserialport.cpp \
     qextserialport/win_qextserialport.cpp \
+    qextserialport/qextserialenumerator.cpp
 
 
 HEADERS += \
@@ -36,6 +37,7 @@ HEADERS += \
     qextserialport/qextserialbase.h \
     qextserialport/qextserialport.h \
     qextserialport/win_qextserialport.h \
+    qextserialport/qextserialenumerator.h
 
 
 FORMS += \
